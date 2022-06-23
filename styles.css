@@ -41,6 +41,10 @@ img {
     height: auto;
 }
 
+.header {
+    background-color: var(--black);
+}
+
 .container {
     width: 100%;
     max-width: 1162px;
@@ -240,6 +244,7 @@ img {
 .creations-list a {
     position: relative;
     text-decoration: none;
+    background-color: var(--black);
 }
 
 .creations-list a::after {
