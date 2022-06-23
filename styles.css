@@ -242,6 +242,7 @@ img {
 }
 
 .creations-list a {
+    display: block;
     position: relative;
     text-decoration: none;
     background-color: var(--black);
